@@ -40,4 +40,13 @@ By combining **data cleaning, feature engineering, and visualization**, this pro
 ## 🛠️ Tools & Skills
 - **Power BI** for dashboard creation and visualization  
 - **Data Cleaning & Transformation** (handling missing values, feature engineering)  
-- **Business Intelligence Storytelling** with clear, audience-focused charts  
+- **Business Intelligence Storytelling** with clear, audience-focused charts
+
+- ## 📂 Project Files
+- **Dashboard**: `blinkit_grocery_dashboard.pbix`  
+- **Dataset**: `data/blinkit_grocery_cleaned_data.csv`
+
+- ## 📊 Dashboard Preview
+Here’s a snapshot of the Blinkit Grocery Sales Dashboard:
+
+![Blinkit Dashboard](dashboard_preview.png)
